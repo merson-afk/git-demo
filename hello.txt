@@ -7,4 +7,4 @@ hello git!hello xiaomiao!
 hello git!hello xiaomiao!
 hello git!hello xiaomiao!
 hello git!hello xiaomiao!
-hello git!hello xiaomiao!
+hello git!hello xiaomiao!hot-fix test
